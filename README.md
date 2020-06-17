@@ -22,5 +22,7 @@ Machine works with: `water, milk, coffee beans, cups and money`.
 
 The machine initialized with `400ml of water, 540ml of milk, 120g of coffee beans, 9 cups, and 550$`.
 
+<img src="./image.png" width="737" height="662">
+
 This is my learning project at JetBrains academy.
 https://hyperskill.org/projects/68
