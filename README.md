@@ -19,6 +19,7 @@ or simply press `control+D` to stop it.
 
 ## Resources
 Machine works with: `water, milk, coffee beans, cups and money`.
+
 The machine initialized with `400ml of water, 540ml of milk, 120g of coffee beans, 9 cups, and 550$`.
 
 This is my learning project at JetBrains academy.
